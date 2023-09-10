@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Tour/static/css/main.19fb2ec6.css",
+    "main.js": "/Tour/static/js/main.131f8733.js",
+    "static/media/about-content-bg.jpg": "/Tour/static/media/about-content-bg.527bb7a2e537e421ae35.jpg",
+    "static/media/banner-02.jpg": "/Tour/static/media/banner-02.94df83bb69a9d6d95214.jpg",
+    "static/media/banner-04.jpg": "/Tour/static/media/banner-04.5f242af65c72f8b6cf99.jpg",
+    "static/media/country-01.jpg": "/Tour/static/media/country-01.2b3ceb87f5c053f618bd.jpg",
+    "static/media/country-03.jpg": "/Tour/static/media/country-03.ebd1c0bf1410a90a5676.jpg",
+    "static/media/banner-01.jpg": "/Tour/static/media/banner-01.915a5d3f12bc7d7222c4.jpg",
+    "static/media/country-02.jpg": "/Tour/static/media/country-02.189c7b7221b4f8ade753.jpg",
+    "static/media/heading-bg.jpg": "/Tour/static/media/heading-bg.10028cc9be39e64b0ae0.jpg",
+    "static/media/banner-03.jpg": "/Tour/static/media/banner-03.883616fde7bf3d147a3f.jpg",
+    "static/media/heading-bg-02.jpg": "/Tour/static/media/heading-bg-02.4fe5045231e06d048818.jpg",
+    "static/media/about-left-image.jpg": "/Tour/static/media/about-left-image.79075ffce10a2104f7e1.jpg",
+    "static/media/deals-02.jpg": "/Tour/static/media/deals-02.a1f5398b3c6babd1c61d.jpg",
+    "static/media/deals-01.jpg": "/Tour/static/media/deals-01.f88592a39a7915328131.jpg",
+    "static/media/cta-bg.jpg": "/Tour/static/media/cta-bg.40dd19d500e30da35070.jpg",
+    "static/media/deals-04.jpg": "/Tour/static/media/deals-04.a7023843d4b1088a2b57.jpg",
+    "static/media/deals-03.jpg": "/Tour/static/media/deals-03.56ba0af4c3bf516f413f.jpg",
+    "static/media/cities-03.jpg": "/Tour/static/media/cities-03.f49f51805c819972ce4a.jpg",
+    "static/media/cities-04.jpg": "/Tour/static/media/cities-04.3f713ab59da7c5997882.jpg",
+    "static/media/cities-02.jpg": "/Tour/static/media/cities-02.a86bbe3c29821663f27d.jpg",
+    "static/media/cities-01.jpg": "/Tour/static/media/cities-01.d90911cd795cd76f1702.jpg",
+    "index.html": "/Tour/index.html",
+    "main.19fb2ec6.css.map": "/Tour/static/css/main.19fb2ec6.css.map",
+    "main.131f8733.js.map": "/Tour/static/js/main.131f8733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fb2ec6.css",
+    "static/js/main.131f8733.js"
+  ]
+}
